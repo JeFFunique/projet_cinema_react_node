@@ -27,7 +27,7 @@ const App = () => {
  
 
   const deleteMovie = (id) => {
-    const spot=document.getElementById('spot')       // On peut supprimer les films qu'en spammant le bouton(delete movie) le plus en haut à gauche
+    const spot=document.getElementById('spot')   // On peut supprimer les films qu'en spammant le bouton(delete movie) le plus en haut à gauche et la première fois necessite d'appuyer sur ce bouton 2 fois
     spot.addEventListener('click', () => { 
       const film2=state.movies.filter((film) => 
       film.imdbID !== id,
