@@ -43,7 +43,7 @@ L'utilisateur arrive sur la page d'acceuil avec la liste de ses films préféres
 
 ### Rechercher film à regarder
 
-En tapant fast and furious dans la barre de recherche, il peut voir la liste des films disponibles correspondant à sa recherche et il va donc pouvoir choisir quel film aller voir.
+En tapant fast and furious(par exemple) dans la barre de recherche, il peut voir la liste des films disponibles correspondant à sa recherche et il va donc pouvoir choisir quel film aller voir.
 
 ![image](https://github.com/user-attachments/assets/d81b1ef0-5eba-4743-bfda-ad8be96d1c2c)
 
