@@ -33,6 +33,15 @@ npm install
 
 npm start
 
+## Utilisation
+
+### Acceuil
+
+L'utilisateur arrive sur la page d'acceuil avec la liste de ses films préféres qu'il a lui-même créés.
+
+![image](https://github.com/user-attachments/assets/82d16cff-b63c-4854-b027-b392aae41b37)
+
+
 
 
 
