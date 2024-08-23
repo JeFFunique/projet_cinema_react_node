@@ -8,7 +8,7 @@ Cette application est une application de réservation de tickets de cinéma qui 
 
 - Créer une liste favorie de films
 
-- Rechercher n'importe quel film pour pouvoir voir les disponibilités au cinéma
+- Rechercher un film à regarder
 
 - Réserver un billet à l'avance et payer
 
@@ -37,9 +37,18 @@ npm start
 
 ### Acceuil
 
-L'utilisateur arrive sur la page d'acceuil avec la liste de ses films préféres qu'il a lui-même créés.
+L'utilisateur arrive sur la page d'acceuil avec la liste de ses films préféres qu'il a lui-même créés. Il peut ainsi supprimer des films de sa page préférée ou en ajouter(grâce un onglet se trouvant en bas de page).
 
 ![image](https://github.com/user-attachments/assets/7cef3c17-b24b-4626-8e21-4b1f0d850ce4)
+
+### Rechercher film à regarder
+
+En tapant fast and furious dans la barre de recherche, il peut voir la liste des films disponibles correspondant à sa recherche et il va donc pouvoir choisir quel film aller voir.
+
+![image](https://github.com/user-attachments/assets/d81b1ef0-5eba-4743-bfda-ad8be96d1c2c)
+
+
+
 
 
 
