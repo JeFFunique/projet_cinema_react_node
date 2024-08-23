@@ -21,6 +21,7 @@ Cette application est une application de réservation de tickets de cinéma qui 
 
 1.clônez ce dépôt:
 git clone https://github.com/JeFFunique/projet_cinema_react_node.git
+
 cd projet_cinema_react_node-main
 
 2.Installez les dépendances npm
