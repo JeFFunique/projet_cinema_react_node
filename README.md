@@ -35,9 +35,9 @@ npm start
 
 ## Utilisation
 
-### Acceuil
+### Accueil
 
-L'utilisateur arrive sur la page d'acceuil avec la liste de ses films préféres qu'il a lui-même créés. Il peut ainsi supprimer des films de sa page préférée ou en ajouter(grâce un onglet se trouvant en bas de page).
+L'utilisateur arrive sur la page d'accueil avec la liste de ses films préféres qu'il a lui-même créés. Il peut ainsi supprimer des films de sa page préférée ou en ajouter(grâce un onglet se trouvant en bas de page).
 
 ![image](https://github.com/user-attachments/assets/7cef3c17-b24b-4626-8e21-4b1f0d850ce4)
 
