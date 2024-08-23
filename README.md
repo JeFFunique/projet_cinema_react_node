@@ -39,7 +39,8 @@ npm start
 
 L'utilisateur arrive sur la page d'acceuil avec la liste de ses films préféres qu'il a lui-même créés.
 
-![image](https://github.com/user-attachments/assets/82d16cff-b63c-4854-b027-b392aae41b37)
+![image](https://github.com/user-attachments/assets/7cef3c17-b24b-4626-8e21-4b1f0d850ce4)
+
 
 
 
